@@ -1,0 +1,48 @@
+c:\users\inf2065_usr\documents\visual studio 2013\Projects\Master\Master\bin\Master.dll.config
+c:\users\inf2065_usr\documents\visual studio 2013\Projects\Master\Master\bin\Master.dll
+c:\users\inf2065_usr\documents\visual studio 2013\Projects\Master\Master\bin\Master.pdb
+c:\users\inf2065_usr\documents\visual studio 2013\Projects\Master\Master\obj\Debug\Master.csprojResolveAssemblyReference.cache
+c:\users\inf2065_usr\documents\visual studio 2013\Projects\Master\Master\obj\Debug\Master.dll
+c:\users\inf2065_usr\documents\visual studio 2013\Projects\Master\Master\obj\Debug\Master.pdb
+D:\university_2016\e-Търговия\Master\Master\bin\Master.dll.config
+D:\university_2016\e-Търговия\Master\Master\bin\Master.dll
+D:\university_2016\e-Търговия\Master\Master\bin\Master.pdb
+D:\university_2016\e-Търговия\Master\Master\obj\Debug\Master.csprojResolveAssemblyReference.cache
+D:\university_2016\e-Търговия\Master\Master\obj\Debug\Master.dll
+D:\university_2016\e-Търговия\Master\Master\obj\Debug\Master.pdb
+D:\university_2016\e-Търговия\Master\Master\bin\EntityFramework.dll
+D:\university_2016\e-Търговия\Master\Master\bin\EntityFramework.SqlServer.dll
+D:\university_2016\e-Търговия\Master\Master\bin\Microsoft.AspNet.Identity.Core.dll
+D:\university_2016\e-Търговия\Master\Master\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\university_2016\e-Търговия\Master\Master\bin\EntityFramework.xml
+D:\university_2016\e-Търговия\Master\Master\bin\EntityFramework.SqlServer.xml
+D:\university_2016\e-Търговия\Master\Master\bin\Microsoft.AspNet.Identity.Core.xml
+D:\university_2016\e-Търговия\Master\Master\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\university_2016\eBusiness\Master\Master\bin\Master.dll.config
+D:\university_2016\eBusiness\Master\Master\bin\Master.dll
+D:\university_2016\eBusiness\Master\Master\bin\Master.pdb
+D:\university_2016\eBusiness\Master\Master\bin\EntityFramework.dll
+D:\university_2016\eBusiness\Master\Master\bin\EntityFramework.SqlServer.dll
+D:\university_2016\eBusiness\Master\Master\bin\Microsoft.AspNet.Identity.Core.dll
+D:\university_2016\eBusiness\Master\Master\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\university_2016\eBusiness\Master\Master\bin\EntityFramework.xml
+D:\university_2016\eBusiness\Master\Master\bin\EntityFramework.SqlServer.xml
+D:\university_2016\eBusiness\Master\Master\bin\Microsoft.AspNet.Identity.Core.xml
+D:\university_2016\eBusiness\Master\Master\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\university_2016\eBusiness\Master\Master\obj\Debug\Master.dll
+D:\university_2016\eBusiness\Master\Master\obj\Debug\Master.pdb
+D:\university_2016\eBusiness\Master\Master\obj\Debug\Master.csprojResolveAssemblyReference.cache
+D:\University\university_2016\eBusiness\Master\Master\bin\Master.dll.config
+D:\University\university_2016\eBusiness\Master\Master\bin\Master.dll
+D:\University\university_2016\eBusiness\Master\Master\bin\Master.pdb
+D:\University\university_2016\eBusiness\Master\Master\bin\EntityFramework.dll
+D:\University\university_2016\eBusiness\Master\Master\bin\EntityFramework.SqlServer.dll
+D:\University\university_2016\eBusiness\Master\Master\bin\Microsoft.AspNet.Identity.Core.dll
+D:\University\university_2016\eBusiness\Master\Master\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\University\university_2016\eBusiness\Master\Master\bin\EntityFramework.xml
+D:\University\university_2016\eBusiness\Master\Master\bin\EntityFramework.SqlServer.xml
+D:\University\university_2016\eBusiness\Master\Master\bin\Microsoft.AspNet.Identity.Core.xml
+D:\University\university_2016\eBusiness\Master\Master\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\University\university_2016\eBusiness\Master\Master\obj\Debug\Master.csprojResolveAssemblyReference.cache
+D:\University\university_2016\eBusiness\Master\Master\obj\Debug\Master.dll
+D:\University\university_2016\eBusiness\Master\Master\obj\Debug\Master.pdb
