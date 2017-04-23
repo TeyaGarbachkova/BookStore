@@ -1,0 +1,109 @@
+﻿body {
+    margin: 0px auto;  
+    background-color:#ffffb3;
+    
+}
+#form1{
+    width:900px;
+    margin-left:auto;
+	margin-right:auto;
+    border-style:solid;
+    border-color:#ffbf00;
+    background-color:#fff;
+}
+
+#Menu1{
+  width: 800px;
+  height: 55px;
+  margin-left:50px;
+  padding-top: 25px;
+  padding-left:20px;
+  text-align: center; 
+  font-weight:bold;
+  background: #ffffb3;  
+  border: 3px solid;
+  border-color:#ffbf00;
+  border-radius: 7px 7px 7px 7px;
+
+}
+.title {
+   width:530px;
+   float:left; 
+   text-align:center; 
+   font-family: arial;  
+   font-size: 140%;
+}
+
+
+.Category{
+  
+    margin-left:50px;
+    margin-bottom:10px;
+    margin-right:20px;
+    /*color:#ffbf00;*/
+    font-size:120%;
+    font-weight:bold;
+}
+  
+.GridView4{
+    width:100px;
+    float:left;
+    margin-left:50px;
+    background-color:#ffffb3;
+    border:solid #ffbf00;
+    
+
+}
+.GridView5{
+    width:630px;
+    float:left;
+    margin-left:70px;
+    background-color:#ffffb3;
+    border:solid #ffbf00;
+}
+
+.details{
+    width:550px;
+    margin-left:50px;
+    background-color:#ffffb3;
+    border:solid #ffbf00;
+}
+
+.DataList1{
+    width:550px;
+    margin-left:50px;
+    margin-top:25px;
+    background-color:#ffffb3;
+    border:solid #ffbf00;
+}
+.lblmyBascet{
+     margin-left:50px;
+ }
+.contacts{
+    margin-left:50px;
+    margin-bottom:10px;
+ 
+}
+.GrViewNews{
+    width:400px !important;
+    margin-left:50px;
+    background-color:#ffffb3;
+    border:solid #ffbf00;
+     word-wrap: break-word;
+ 
+}
+.search{
+    margin-left:246px;
+    margin-bottom:10px;
+}
+
+.lblTotal{
+    margin-top:35px;
+    margin-left:50px;
+
+}
+.total{
+    margin-top:4px;
+    background-color:#ffffb3;
+    border:solid #ffbf00;
+}

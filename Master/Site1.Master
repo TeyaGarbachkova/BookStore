@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Master.Site1" %>
+
+<!DOCTYPE html>
+<link href="StyleSheet1.css" rel="stylesheet" />
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Електронна книжарница</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+     
+
+</head>
+<body>
+    
+    
+    <form id="form1" runat="server">
+
+    
+       
+    <asp:Label ID="Label2" class="title" runat="server" Text="Електронна книжарница ДеМи" meta:resourcekey="Label2Resource1"></asp:Label>
+        
+   
+    <div id="login"> 
+        <asp:AdRotator ID="AdRotator1" runat="server" DataSourceID="XmlDataSource1" meta:resourcekey="AdRotator1Resource1" />
+        <asp:ImageButton ID="ImgBtnBg" runat="server" ImageUrl="~/BookPictures/images.png" OnClick="ImgBtnBg_Click" Width="20px" Height="16px" meta:resourcekey="ImgBtnBgResource1" />
+        <asp:ImageButton ID="ImgBtnEn" runat="server" ImageUrl="~/BookPictures/180px-Flag_of_the_British_East_India_Company_(1707).svg.png" OnClick="ImgBtnEn_Click" Width="16px" Height="16px" meta:resourcekey="ImgBtnEnResource1" />
+       </div> 
+     <asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1" Orientation="Horizontal" Font-Bold="True" ForeColor="#FFBF00" meta:resourcekey="Menu1Resource1">
+         <StaticMenuItemStyle HorizontalPadding="15px" />
+         <StaticItemTemplate>
+             <%# Eval("Text") %>
+         </StaticItemTemplate>
+     </asp:Menu>
+     <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="False" />
+        <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/XMLFile1.xml"></asp:XmlDataSource>
+     &nbsp;<div>
+      <marquee direction="left">
+          
+           <asp:Label ID="Label1" runat="server" Text="Намалени книги тази седмица">
+           </asp:Label>  
+          <asp:Image ID="Image1" runat="server" ImageUrl="~/BookPictures/GR111.jpg" />
+          <asp:Image ID="Image2" runat="server" ImageUrl="~/BookPictures/HW111.jpg" /></marquee>
+
+      
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+       </asp:ContentPlaceHolder>
+     </div>
+     
+
+
+   
+    </form>
+
+    
+
+   
+</body>
+</html>
